@@ -13,5 +13,8 @@ Set up and Dockerise the FastAPI Application
 Lorsqu'on lance notre FastAPI: 
 ![image](https://github.com/user-attachments/assets/d2131206-beed-40e9-b0a5-f4aa1b304f68)
 
+LLM: 
+![image](https://github.com/user-attachments/assets/21769e45-f049-431d-b855-98c06cf90aac)
+
 
 
