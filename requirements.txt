@@ -1,4 +1,3 @@
-groq
-httpx
 fastapi
-pydantic
+uvicorn
+groq
